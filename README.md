@@ -1,7 +1,6 @@
 # PHYS-31415-Summer-2021
-Collection of assignments and lessons in Quantum Computation using Qiskit! 
 
-I am Abdulah Amer and will be guiding you thorugh the world of Quantum Computation through the lens of programming 
+I am Abdulah Amer and will be guiding you thorugh the world of Quantum Computation through the lens of programming.
 
 
 ## Getting Started 
