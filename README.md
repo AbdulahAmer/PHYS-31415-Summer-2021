@@ -20,4 +20,4 @@ I am Abdulah Amer and will be guiding you thorugh the world of Quantum Computati
 ## Introduction to Jupyter Notebook and Beginner's guide to Python
 
 * [Hello World!]( https://github.com/AbdulahAmer/PHYS-31415-Summer-2021/blob/1c0901cd470e56e28f8e2c96e11b4c8334e46fe3/Intro%20the%20Jupyter%20Notebook%20and%20Python/datatypes,%20variables,%20and%20Hello%20World.ipynb )
-
+* [Data Types]()
