@@ -1,6 +1,8 @@
 # PHYS-31415-Summer-2021
 Collection of assignments and lessons in Quantum Computation using Qiskit! 
 
+I am Abdulah Amer and will be guiding you thorugh the world of Quantum Computation through the lens of programming 
+
 
 ## Getting Started 
 
@@ -15,4 +17,6 @@ Collection of assignments and lessons in Quantum Computation using Qiskit!
 ![](https://github.com/AbdulahAmer/PHYS-31415-Summer-2021/blob/deecac94b34b19076f172a039f2199e0f5ed8b52/Images/pip%20install%20qiskit.PNG)
 
 * Make sure to restart your computer to put these changes into effect. 
+
+## Introduction to Jupyter Notebook and Beginner's guide to Python
 
