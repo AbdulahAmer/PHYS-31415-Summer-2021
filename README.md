@@ -8,4 +8,7 @@ Collection of assignments and lessons in Quantum Computation using Qiskit!
 * Use Command Line to install Jupyter notebook (feel free to try Jupyter lab) 
 
 
-![](images/pip%20install%20jupyter.png)
+![](https://github.com/AbdulahAmer/PHYS-31415-Summer-2021/blob/052a3d1aafd24c53b36e5306431813642b6cb07b/Images/pip%20install%20jupyter.PNG)
+
+* Use Command Line to install Qiskit 
+
