@@ -5,4 +5,4 @@ Collection of assignments and lessons in Quantum Computation using Qiskit!
 ## Getting Started 
 
 * [Download Python for your appropiate OS](https://www.python.org/ "Python Homepage")
-* Use Command Line to install Jupyter notebook (feel free to try Jupyter lab) ! [pip install jupyter] (C:\Users\scien\OneDrive\Desktop\these PNG\pip install jupyter.png)
+* Use Command Line to install Jupyter notebook (feel free to try Jupyter lab) ! [pip install jupyter](C:\Users\scien\OneDrive\Desktop\these PNG\pip install jupyter.png)
