@@ -35,6 +35,8 @@ I am Abdulah Amer and will be guiding you thorugh the world of Quantum Computati
 
 * Scroll Down you should see a New Untitled Folder, Click the box on the left and at the top of the page you should be prompted to rename, move, or delete. Please rename it something you like. 
 
+![](https://github.com/AbdulahAmer/PHYS-31415-Summer-2021/blob/271336854a9188b1e6441d1a8c85bb17b74890cd/Images/Jupyter%20Rename.PNG)
+
 * Go into the the new folder then hit the New button again and now choose the Python 3 option, you should now have a page like this.
 
 ![]()
