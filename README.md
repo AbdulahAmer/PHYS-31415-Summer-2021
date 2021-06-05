@@ -31,6 +31,8 @@ I am Abdulah Amer and will be guiding you thorugh the world of Quantum Computati
 
 ![](https://github.com/AbdulahAmer/PHYS-31415-Summer-2021/blob/4f2fe144a3e871aa9d34af4fbcf77b96d4e9179e/Images/Jupyter%20Home%20New%20drop%20down.PNG)
 
+![](https://github.com/AbdulahAmer/PHYS-31415-Summer-2021/blob/193c8f367638276eee21781d0a5fd7520cb5b4c3/Images/Jupyter%20Home%20New%20Folder.PNG)
+
 * Scroll Down you should see a New Untitled Folder, Click the box on the left and at the top of the page you should be prompted to rename, move, or delete. Please rename it something you like. 
 
 * Go into the the new folder then hit the New button again and now choose the Python 3 option, you should now have a page like this.
