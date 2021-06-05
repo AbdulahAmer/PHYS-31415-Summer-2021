@@ -19,7 +19,17 @@ I am Abdulah Amer and will be guiding you thorugh the world of Quantum Computati
 
 ## Make your first Notebook 
 
-* Use Command Line again to open your own Jupyter Notebook
+* Use Command Line again to open your own Jupyter Notebook, use command "jupyter notebook" and hit enter.
+
+![](https://github.com/AbdulahAmer/PHYS-31415-Summer-2021/blob/42ee0881d7f15d5329ca1d9af8b58ab061cec19f/Images/cmd%20notebook.PNG)
+
+* If done well, your command line should spit out alot of stuff that should not mean a whole lot to you, it will however prompt your default browser to open up a page like this.
+
+![]()
+
+* Make a New Folder to hold your Notebooks for this class by clicking the "New" drop down in the right hand corner of the page, and choosing  the "Folder" option.
+
+![]()
 
 ![]()
 
