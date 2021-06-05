@@ -3,7 +3,7 @@
 I am Abdulah Amer and will be guiding you thorugh the world of Quantum Computation through the lens of programming.
 
 
-## Getting Started 
+## Getting Started (PLEASE READ FOR BEGINNERS)
 
 * [Download Python for your appropiate OS](https://www.python.org/ "Python Homepage") Make sure when given the option, to add Python to your path. 
 * Use Command Line to install Jupyter notebook (feel free to try Jupyter lab, they should be functionally the same).
