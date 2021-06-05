@@ -2,7 +2,7 @@
 
 I am Abdulah Amer and will be guiding you thorugh the world of Quantum Computation through the lens of programming.
 
-## Getting Started 
+## Getting Started (This is where you start!) 
 
 * [The Journey of 1000 scripts](https://github.com/AbdulahAmer/PHYS-31415-Summer-2021/blob/ad2ecf8f932767c4040c99858b57c3ab6b517a4b/Getting-Started/The%20Journey%20of%201000%20scripts.md)
 
