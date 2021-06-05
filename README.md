@@ -29,7 +29,7 @@ I am Abdulah Amer and will be guiding you thorugh the world of Quantum Computati
 
 * Make a New Folder to hold your Notebooks for this class by clicking the "New" drop down in the right hand corner of the page, and choosing  the "Folder" option.
 
-![]()
+![](https://github.com/AbdulahAmer/PHYS-31415-Summer-2021/blob/dff76fbc2ded7183ca48e52c17ab117a8dc54d88/Images/Jupyter%20Home.PNG)
 
 ![]()
 
