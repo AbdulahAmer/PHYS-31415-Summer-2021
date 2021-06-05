@@ -1,6 +1,7 @@
 # PHYS-31415-Summer-2021
 
-I am Abdulah Amer and will be guiding you thorugh the world of Quantum Computation through the lens of programming.
+I am Abdulah Amer and will be guiding you thorugh the world of Quantum Computation through the lens of programming. You can contact me here through the discussions page. 
+Check out my [website](https://abdulahamer.github.io/) if you want to see some of the stuff I do.
 
 ## Getting Started (This is where you start!) 
 
