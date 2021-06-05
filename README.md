@@ -39,7 +39,7 @@ I am Abdulah Amer and will be guiding you thorugh the world of Quantum Computati
 
 * Go into the the new folder then hit the New button again and now choose the Python 3 option, you should now have a page like this.
 
-![]()
+![](https://github.com/AbdulahAmer/PHYS-31415-Summer-2021/blob/6ffbe0c03c55aa7a8736f63d150aa396c18dcb17/Images/New%20Notebook.PNG)
 
 * You are now ready to use Jupyter Notebook! Label your work and keep everything Organized, it helps in the long run. 
 
