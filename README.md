@@ -3,6 +3,8 @@
 I am Abdulah Amer and will be guiding you thorugh the world of Quantum Computation through the lens of programming. You can contact me here through the discussions page. 
 Check out my [website](https://abdulahamer.github.io/) if you want to see some of the stuff I do.
 
+Please reach out if you find any typos or erros or anything particularly confusing! 
+
 ## Getting Started (This is where you start!) 
 
 * [The Journey of 1000 scripts](https://github.com/AbdulahAmer/PHYS-31415-Summer-2021/blob/ad2ecf8f932767c4040c99858b57c3ab6b517a4b/Getting-Started/The%20Journey%20of%201000%20scripts.md)
