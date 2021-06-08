@@ -23,4 +23,4 @@ Please reach out if you find any typos or erros or anything particularly confusi
 
 ## Homework Assignments Designed to Test Your Might! 
 
-* [Homework 1]()
+* [Homework 1](https://github.com/AbdulahAmer/PHYS-31415-Summer-2021/blob/3250974c4eb03894af3c717d7c8286854b105493/Homework/Phys_31415_Homework__1%20.pdf)
