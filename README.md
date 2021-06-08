@@ -5,6 +5,8 @@ Check out my [website](https://abdulahamer.github.io/) if you want to see some o
 
 Please reach out if you find any typos or erros or anything particularly confusing! 
 
+## Acknowledgmenets 
+
 A special thank you to Professor Seth Cottrell for helping me learn so much about Quantum Computation and guiding me along my way. 
 
 And a big thanks to Qiskit and the [Qiskit textbook](https://qiskit.org/textbook/preface.html). It is a great resource I have been able to use to help learn and teach this material. 
