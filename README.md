@@ -19,3 +19,8 @@ Please reach out if you find any typos or erros or anything particularly confusi
 ## Introduction to Qiskit! 
 
 * [Make a Circuit, Use a Gate, Do a Measurement](https://github.com/AbdulahAmer/PHYS-31415-Summer-2021/blob/bd4995ea3a1b6d1932336bdb84696f3ab77263a9/Intro%20to%20Qiskit/Make%20a%20Circuit,%20Use%20a%20Gate,%20do%20%20a%20Measurement.ipynb)
+
+
+## Homework Assignments Designed to Test Your Might! 
+
+* [Homework 1]()
