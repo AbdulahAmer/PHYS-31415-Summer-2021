@@ -5,6 +5,16 @@ Check out my [website](https://abdulahamer.github.io/) if you want to see some o
 
 Please reach out if you find any typos or erros or anything particularly confusing! 
 
+Big thank you to Professor Seth Cottrell for helping me learn so much about Quantum Computation and guiding me along my way. 
+
+Big thanks to Qiskit and the [Qiskit textbook](https://qiskit.org/textbook/preface.html). It is a great resource I have been able to use to help learn and teach this material. 
+
+As well as the contributors to Learn Quantum Computation using Qiskit: 
+
+Abraham Asfaw, Antonio Córcoles, Luciano Bello, Yael Ben-Haim, Mehdi Bozzo-Rey, Sergey Bravyi, Nicholas Bronn, Lauren Capelluto, Almudena Carrera Vazquez, Jack Ceroni, Richard Chen, Albert Frisch, Jay Gambetta, Shelly Garion, Leron Gil, Salvador De La Puente Gonzalez, Francis Harkins, Takashi Imamichi, Hwajung Kang, Amir h. Karamlou, Robert Loredo, David McKay, Antonio Mezzacapo, Zlatko Minev, Ramis Movassagh, Giacomo Nannicini, Paul Nation, Anna Phan, Marco Pistoia, Arthur Rattew, Joachim Schaefer, Javad Shabani, John Smolin, John Stenger, Kristan Temme, Madeleine Tod, Stephen Wood, James Wootton.
+
+Some of these people I have gotten to meet and talk to online and ask questions and have been so helpful. Others I have not met I am thankful for building this resource for me and others to learn from! Thank you! 
+
 ## Getting Started (This is where you start!) 
 
 * [The Journey of 1000 scripts](https://github.com/AbdulahAmer/PHYS-31415-Summer-2021/blob/ad2ecf8f932767c4040c99858b57c3ab6b517a4b/Getting-Started/The%20Journey%20of%201000%20scripts.md)
