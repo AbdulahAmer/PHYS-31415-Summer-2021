@@ -12,9 +12,9 @@ Please reach out if you find any typos or erros or anything particularly confusi
 
 ## Introduction to Jupyter Notebook and Beginner's guide to Python
 
-* [Hello World!]( https://github.com/AbdulahAmer/PHYS-31415-Summer-2021/blob/1c0901cd470e56e28f8e2c96e11b4c8334e46fe3/Intro%20the%20Jupyter%20Notebook%20and%20Python/datatypes,%20variables,%20and%20Hello%20World.ipynb )
-* [Data Types](https://github.com/AbdulahAmer/PHYS-31415-Summer-2021/blob/4a8d6c536992f3a2ca7f8238feb85d0a200af248/Intro%20the%20Jupyter%20Notebook%20and%20Python/Data%20Types.ipynb)
-* [Control Flow](https://github.com/AbdulahAmer/PHYS-31415-Summer-2021/blob/8dc448f93b2d6bd4ad8afb223d4a846582737e16/Intro%20the%20Jupyter%20Notebook%20and%20Python/Control%20Flow%20.ipynb)
+* [Hello World!]( https://github.com/AbdulahAmer/PHYS-31415-Summer-2021/blob/4df3ee490c57e06ce434ab6f51e978ef5d454687/Intro%20to%20Jupyter%20Notebook%20and%20Python/Variables,%20and%20Hello%20World.ipynb )
+* [Data Types](https://github.com/AbdulahAmer/PHYS-31415-Summer-2021/blob/4df3ee490c57e06ce434ab6f51e978ef5d454687/Intro%20to%20Jupyter%20Notebook%20and%20Python/Data%20Types.ipynb)
+* [Control Flow](https://github.com/AbdulahAmer/PHYS-31415-Summer-2021/blob/4df3ee490c57e06ce434ab6f51e978ef5d454687/Intro%20to%20Jupyter%20Notebook%20and%20Python/Control%20Flow%20.ipynb)
 
 ## Introduction to Qiskit! 
 
