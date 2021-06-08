@@ -31,6 +31,7 @@ Some of these people I have gotten to meet and talk to online and ask questions 
 ## Introduction to Qiskit! 
 
 * [Make a Circuit, Use a Gate, Do a Measurement](https://github.com/AbdulahAmer/PHYS-31415-Summer-2021/blob/bd4995ea3a1b6d1932336bdb84696f3ab77263a9/Intro%20to%20Qiskit/Make%20a%20Circuit,%20Use%20a%20Gate,%20do%20%20a%20Measurement.ipynb)
+* [All the Other Gates](https://github.com/AbdulahAmer/PHYS-31415-Summer-2021/blob/cbd98a7127cbe1963d58a6e3ae4afb261485a4a0/Intro%20to%20Qiskit/All%20The%20Other%20Gates.ipynb)
 
 
 ## Homework Assignments Designed to Test Your Might! 
