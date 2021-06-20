@@ -32,7 +32,7 @@ Some of these people I have gotten to meet and talk to online and ask questions 
 
 * [Make a Circuit, Use a Gate, Do a Measurement](https://github.com/AbdulahAmer/PHYS-31415-Summer-2021/blob/bd4995ea3a1b6d1932336bdb84696f3ab77263a9/Intro%20to%20Qiskit/Make%20a%20Circuit,%20Use%20a%20Gate,%20do%20%20a%20Measurement.ipynb)
 * [All the Other Gates](https://github.com/AbdulahAmer/PHYS-31415-Summer-2021/blob/a7502b545c20863c4c31d4c3cbb4f8ef8459a61a/Intro%20to%20Qiskit/All%20The%20Other%20Gates.ipynb)
-* [CNOT, Multiple qubits and Deutsch-Jozsa Algorithm](https://github.com/AbdulahAmer/PHYS-31415-Summer-2021/blob/09b99aafd15fd13541930444c4c3a1168de89a15/Intro%20to%20Qiskit/CNOT,%20Multiple%20qubits%20and%20Deutsch-Jozsa%20Algorithm.ipynb)
+* [CNOT, Multiple qubits and Deutsch-Jozsa Algorithm](https://github.com/AbdulahAmer/PHYS-31415-Summer-2021/blob/9421401b0b9963728f78a30ff6cec2811e99321f/Intro%20to%20Qiskit/CNOT,%20Multiple%20qubits%20and%20Deutsch-Jozsa%20Algorithm.ipynb)
 
 ## Homework Assignments Designed to Test Your Might! 
 
