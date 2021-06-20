@@ -37,3 +37,5 @@ Some of these people I have gotten to meet and talk to online and ask questions 
 ## Homework Assignments Designed to Test Your Might! 
 
 * [Homework 1](https://github.com/AbdulahAmer/PHYS-31415-Summer-2021/blob/3250974c4eb03894af3c717d7c8286854b105493/Homework/Phys_31415_Homework__1%20.pdf)
+* [Homework 2](https://github.com/AbdulahAmer/PHYS-31415-Summer-2021/blob/17280d27774eacec8e3394331c6b0f3ee8e59b1b/Homework/Phys_31414_Homework__2.pdf)
+* [Homework 3]()
